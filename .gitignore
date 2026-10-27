@@ -1,0 +1,24 @@
+# Binaries
+/micrograd-go
+*.exe
+*.test
+*.out
+
+# Coverage and profiles
+*.cover
+*.prof
+
+# Go workspace
+go.work
+go.work.sum
+
+# Editor and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local tooling (Serena keeps its own cache/local ignores)
+.claude/
+
+# Serena
+.serena/
